@@ -1,0 +1,24 @@
+{
+  "name": "get-facebook-test-users-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m41highway/Get-Facebook-test-users-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m41highway/Get-Facebook-test-users-data/issues"
+  },
+  "homepage": "https://github.com/m41highway/Get-Facebook-test-users-data#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "fb": "^2.0.0",
+    "node-fetch": "^1.7.0"
+  }
+}
